@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CharlotteS34
+- 👀 I’m interested in backend develpment, software architecture, machine learning and AI.
+- 🌱 I’m currently learning python and graphQL
